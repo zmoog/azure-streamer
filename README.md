@@ -1,7 +1,5 @@
 # azure-streamer
 
-The Azure Streamer PoC has moved to https://github.com/elastic/azure-streamer.
+This project is changing name and scope and it will be released as EDOT Cloud Forwarder for Azure in the future.
 
-Currently, it's a private repository.
-
-If it ever passes the PoC stage, the repo may or may not be made public again ¯\_(ツ)_/¯
+This repo will be decommissioned soon.
